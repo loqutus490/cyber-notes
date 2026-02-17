@@ -4,3 +4,6 @@ nmap -sV target_ip
 netstat -an
 ipconfig /all
 
+whoami
+tracert google.com
+

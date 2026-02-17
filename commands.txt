@@ -1,0 +1,6 @@
+# Cybersecurity Notes
+
+nmap -sV target_ip
+netstat -an
+ipconfig /all
+
